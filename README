@@ -1,0 +1,17 @@
+
+A giter8 template for Scala projects using sbt.
+
+- Enabled plugins:
+  - sbt-idea
+  - scct
+
+- Library dependencies:
+  - ScalaTest
+
+
+Links:
+ - giter8, https://github.com/n8han/giter8
+ - sbt-idea, https://github.com/mpeltonen/sbt-idea
+ - scct, http://mtkopone.github.com/scct/
+ - ScalaTest, http://www.scalatest.org
+
